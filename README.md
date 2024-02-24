@@ -1,2 +1,3 @@
-# data-series-house-hold-energy
-Berikut merupakan proyek yang dirancang khusus untuk menyelesaikan tanggung jawab sebagai peserta kelas menengah "Belajar Pengembangan Machine Learning" yang diselenggarakan oleh Dicoding. 
+<h1 align="center">Building Machine Learning Models with Time Series Data for House Hold Energy Dataset</h1>
+
+<p align="justify">Proyek ini bertujuan untuk mengembangkan model pembelajaran mesin menggunakan data deret waktu untuk memprediksi pola konsumsi energi rumah tangga. Peramalan deret waktu dalam konteks konsumsi energi rumah tangga dapat menjadi sangat penting untuk manajemen energi yang efisien, alokasi sumber daya, dan pengurangan biaya. Dengan memanfaatkan teknik pembelajaran mesin, kita dapat menganalisis data konsumsi energi historis untuk membuat prediksi yang akurat tentang penggunaan energi di masa depan.</p>
